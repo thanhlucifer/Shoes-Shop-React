@@ -1,11 +1,10 @@
-
-import Demo from './components/Demo'
+import ShoesStore from "./components/ShoesStore"
 
 function App() {
   
   return (
     <>
-      <Demo />
+      <ShoesStore />
     </>
   )
 }
